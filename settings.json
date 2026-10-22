@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gamebreak.aternos.me",
+    "ip": "gamebreak.mcserv.world",
     "port": 48516,
     "version": "1.21.1"
   },
